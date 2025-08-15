@@ -1,5 +1,9 @@
 1. Redz hub: loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()
+
 2. Than hub: Auto Farm sea and raids ``loadstring(game:HttpGet("https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1"))()
+
 3: Ro-hub: loadstring(game:HttpGet("https://rohub.gg/script"))()
+
 4: W azure: loadstring(game:HttpGet("https://rawscripts.net/raw/Blox-Fruits-Azurehub-Keyless-20485"))()
+
 5: Omg hub: W azure Alternative: loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
